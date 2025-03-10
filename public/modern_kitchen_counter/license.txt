@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modern Kitchen Counter
+* source:	https://sketchfab.com/3d-models/modern-kitchen-counter-d245b006ce1d4e2191daf2df0d6c0e30
+* author:	Visthétique (https://sketchfab.com/bubirmelisa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modern Kitchen Counter" (https://sketchfab.com/3d-models/modern-kitchen-counter-d245b006ce1d4e2191daf2df0d6c0e30) by Visthétique (https://sketchfab.com/bubirmelisa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
